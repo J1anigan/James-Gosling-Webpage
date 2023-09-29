@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+.heading{
+    text-align: center;
+}
+h1{
+    color: red;
+}
+h3{
+    color: blue;
+}
+h5{
+    color: blue;
+}
+
+.sectionOne{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color:white;
+    border-style: solid;
+    border-color:white;
+    border-width: 5px;
+}
+.sectionTwo{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color:white;
+    border-style: solid;
+    border-color:white;
+    border-width: 5px;
+}
+.lowerBackground{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color:white;
+    border-style: solid;
+    border-color:white;
+    border-width: 5px;
+}
+.links{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color:white;
+    border-style: solid;
+    border-color:white;
+    border-width: 5px;
+}
+a{
+    padding-left: 275px;
+}
+a:hover{
+    text-decoration: wavy;
+    
+}
